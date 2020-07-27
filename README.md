@@ -5,7 +5,6 @@
 
 > Final project in 4GeeksAcademy. Solution for clients and restaurants to order food without waiting time for prepare. Technology used: React.js, API REST, Bootstrap, CSS, HTML
 
-### 🏠 [Homepage](frenon.vercel.app)
 
 # Create React App 
 
